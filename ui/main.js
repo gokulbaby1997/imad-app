@@ -1,3 +1,4 @@
 console.log('Loaded!');
-console.log("enter number")
+console.log("enter number");
 prompt("enter")
+;
